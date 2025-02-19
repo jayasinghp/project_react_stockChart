@@ -12,7 +12,7 @@ function TradingViewWidget() {
         {
           "width": "1440",
           "height": "610",
-          "symbol": "NSE:TATAMOTORS",
+          "symbol": "NASDAQ:MSFT",
           "timezone": "Etc/UTC",
           "theme": "light",
           "style": "1",
