@@ -1,5 +1,5 @@
 {
-  "name": "project_react_stockChart",
+  "name": "project-react-stockchart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^13.5.0",
     "oil_ocm_analyzer": "file:",
     "project_react_stockChart": "file:",
+    "project-react-stockchart": "file:",
+    "project-react-stockChart": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
